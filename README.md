@@ -1,7 +1,7 @@
 # Caron-Charly_kickstarter_synthese
 # Charly Caron  Épreuve synthèse mon Kickstarter de jeu vidéo Christmas Chaos
 ##  Christmas Chaos le soulslike de Noël open world
-Christmas Chaos un soulslike de Noël dont le but est de sauver Noël et réparer le village du père Noël. Un lutin doit tout faire pour arrêter le Grinch qui détruit tout et gâche Noël. Avec une direction artistique cartoon sombre.
+Christmas Chaos un soulslike de Noël dont le but est de sauver Noël et réparer le village du père Noël. Un lutin doit tout faire pour arrêter le Grinch qui détruit tout et gâche Noël. Avec une direction artistique cartoon sombre. Ce  jeu se passe en troisième personne
 ![divan avec un sapin et un foyer](https://i.pinimg.com/736x/da/5e/4d/da5e4d2763a911fb3324970d2160a5e2.jpg)
 ## Public cible
 Les joueurs qui aiment l’exploration de monde et la difficulté pour être récompenser est le public cible parfait pour ce jeu
